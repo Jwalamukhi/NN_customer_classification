@@ -56,9 +56,9 @@ Use the trained model to make predictions on new data samples.
 
 ## PROGRAM
 
-### Name: VASANTHI SIVASANKAR
+### Name: JWALAMUKHI S
 
-### Register Number: 212223040234
+### Register Number: 212223040079
 
 ```python
 class PeopleClassifier(nn.Module):
