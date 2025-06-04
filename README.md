@@ -110,7 +110,8 @@ def train_model(model,train_loader,criterion,optimizer,epochs):
 
 ### Classification Report
 
-![image](https://github.com/user-attachments/assets/f368dfd8-e2dc-49d0-b05b-2edad180802a)
+![Screenshot 2025-06-04 232507](https://github.com/user-attachments/assets/0d6cb51d-0f10-442f-be67-7ebb70d29282)
+
 
 ### New Sample Data Prediction
 
